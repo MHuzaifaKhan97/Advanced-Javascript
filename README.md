@@ -1,1 +1,1 @@
-## All the code from the slides of Advance Javascript
+## All important topic are covered which are required to start any other javascript Framework i.e. React/Vue/Angular
